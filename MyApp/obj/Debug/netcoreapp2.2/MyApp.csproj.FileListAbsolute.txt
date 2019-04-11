@@ -1,0 +1,11 @@
+C:\Users\ajouzts\Learning\MyApp\bin\Debug\netcoreapp2.2\MyApp.deps.json
+C:\Users\ajouzts\Learning\MyApp\bin\Debug\netcoreapp2.2\MyApp.runtimeconfig.json
+C:\Users\ajouzts\Learning\MyApp\bin\Debug\netcoreapp2.2\MyApp.runtimeconfig.dev.json
+C:\Users\ajouzts\Learning\MyApp\bin\Debug\netcoreapp2.2\MyApp.dll
+C:\Users\ajouzts\Learning\MyApp\bin\Debug\netcoreapp2.2\MyApp.pdb
+C:\Users\ajouzts\Learning\MyApp\obj\Debug\netcoreapp2.2\MyApp.csprojAssemblyReference.cache
+C:\Users\ajouzts\Learning\MyApp\obj\Debug\netcoreapp2.2\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\ajouzts\Learning\MyApp\obj\Debug\netcoreapp2.2\MyApp.AssemblyInfoInputs.cache
+C:\Users\ajouzts\Learning\MyApp\obj\Debug\netcoreapp2.2\MyApp.AssemblyInfo.cs
+C:\Users\ajouzts\Learning\MyApp\obj\Debug\netcoreapp2.2\MyApp.dll
+C:\Users\ajouzts\Learning\MyApp\obj\Debug\netcoreapp2.2\MyApp.pdb
